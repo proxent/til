@@ -8,7 +8,7 @@ Synchronous IO / asynchronous IO
 
 Process
 
-Process StateOS
+Process State
 
 System Call
 
